@@ -1,7 +1,15 @@
 dong 1
 <<<<<<< HEAD
+dong 3
+=======
+<<<<<<< HEAD
 dong 2
 =======
+cho chuan
 dong 2345667778
 >>>>>>> 4b1b0212d4a4cf6bc688e290a806d09a224d528c
+<<<<<<< HEAD
 Dam ba con Ga Tot ma doi an Ars
+=======
+>>>>>>> 49e30fee41aa3f1cafab5aab52d285c85e40571b
+>>>>>>> ccd78d09f5394fd8d9d12bdef2642bd98022544a
