@@ -5,9 +5,14 @@ dong 3
 <<<<<<< HEAD
 dong 2
 =======
+cho chuan
 dong 2345667778
 >>>>>>> 4b1b0212d4a4cf6bc688e290a806d09a224d528c
+<<<<<<< HEAD
+Dam ba con Ga Tot ma doi an Ars
+=======
 >>>>>>> 49e30fee41aa3f1cafab5aab52d285c85e40571b
+<<<<<<< HEAD
 Song: ANH EM MINH
 Anh em minh la 1 gia dinh
 1 gia dinh la choi het minh
@@ -23,3 +28,6 @@ len troi cao la len troi cao
 len troi cao ta gap chi hang
 gap chi hang ta noi voi chi
 i love you la i love you
+=======
+>>>>>>> ccd78d09f5394fd8d9d12bdef2642bd98022544a
+>>>>>>> a61e08789ce184aedc06f41a7243c339025ae9bd
