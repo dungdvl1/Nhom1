@@ -1,2 +1,10 @@
 dong 1
+<<<<<<< HEAD
 dong 3
+=======
+<<<<<<< HEAD
+dong 2
+=======
+dong 2345667778
+>>>>>>> 4b1b0212d4a4cf6bc688e290a806d09a224d528c
+>>>>>>> 49e30fee41aa3f1cafab5aab52d285c85e40571b
