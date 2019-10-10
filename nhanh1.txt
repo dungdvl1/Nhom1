@@ -1,7 +1,4 @@
 abc
 123
-<<<<<<< HEAD
 test1
-=======
 test2
->>>>>>> test2
